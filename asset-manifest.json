@@ -1,7 +1,7 @@
 {
   "files": {
-    "app.js": "/simple-counter-app/static/js/app.ee855072.chunk.js",
-    "app.js.map": "/simple-counter-app/static/js/app.ee855072.chunk.js.map",
+    "app.js": "/simple-counter-app/static/js/app.4a08af52.chunk.js",
+    "app.js.map": "/simple-counter-app/static/js/app.4a08af52.chunk.js.map",
     "runtime~app.js": "/simple-counter-app/static/js/runtime~app.d030e14e.js",
     "runtime~app.js.map": "/simple-counter-app/static/js/runtime~app.d030e14e.js.map",
     "static/js/2.1284389e.chunk.js": "/simple-counter-app/static/js/2.1284389e.chunk.js",
@@ -35,12 +35,12 @@
     "favicon.ico": "/simple-counter-app/favicon.ico",
     "index.html": "/simple-counter-app/index.html",
     "manifest.json": "/simple-counter-app/manifest.json",
-    "precache-manifest.b3b42c9b579e310420b451191058cc9b.js": "/simple-counter-app/precache-manifest.b3b42c9b579e310420b451191058cc9b.js",
+    "precache-manifest.e54da3eb4daee2dba2be806fa1a8e150.js": "/simple-counter-app/precache-manifest.e54da3eb4daee2dba2be806fa1a8e150.js",
     "serve.json": "/simple-counter-app/serve.json"
   },
   "entrypoints": [
     "static/js/runtime~app.d030e14e.js",
     "static/js/2.1284389e.chunk.js",
-    "static/js/app.ee855072.chunk.js"
+    "static/js/app.4a08af52.chunk.js"
   ]
 }
