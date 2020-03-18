@@ -1,15 +1,15 @@
 self.__precacheManifest = [
   {
-    "revision": "e119c891dde2c29cac1a",
-    "url": "/simple-counter-app/static/js/app.4a08af52.chunk.js"
+    "revision": "336dd7ede8fea22586ab",
+    "url": "/simple-counter-app/static/js/app.2a5aa2ed.chunk.js"
   },
   {
     "revision": "bbd9e5d498ab384c3b0a",
     "url": "/simple-counter-app/static/js/runtime~app.d030e14e.js"
   },
   {
-    "revision": "ed9c31168fdb77d5720b",
-    "url": "/simple-counter-app/static/js/2.1284389e.chunk.js"
+    "revision": "8cff0f7e60d054a9ecd3",
+    "url": "/simple-counter-app/static/js/2.a3a2cad7.chunk.js"
   },
   {
     "revision": "3a2ba31570920eeb9b1d217cabe58315",
@@ -56,16 +56,16 @@ self.__precacheManifest = [
     "url": "/simple-counter-app/./fonts/FontAwesome5_Brands.ttf"
   },
   {
-    "revision": "d0c694b562b2208635f250762cd7fc79",
-    "url": "/simple-counter-app/serve.json"
-  },
-  {
     "revision": "7a7bc7ead25db795e58b336f04d2624c",
     "url": "/simple-counter-app/favicon.ico"
   },
   {
     "revision": "48c7ed4e7da9792af288a60d7242d615",
     "url": "/simple-counter-app/expo-service-worker.js"
+  },
+  {
+    "revision": "d0c694b562b2208635f250762cd7fc79",
+    "url": "/simple-counter-app/serve.json"
   },
   {
     "revision": "701b749ed8f7a40164e1609bdbcceabe",
@@ -132,7 +132,7 @@ self.__precacheManifest = [
     "url": "/simple-counter-app/apple/splash/icon_828x1792.png"
   },
   {
-    "revision": "ae881c4314587441fe261cc76c251cfc",
+    "revision": "35e34aed84c64fc6047fba82e01072fc",
     "url": "/simple-counter-app/index.html"
   },
   {
