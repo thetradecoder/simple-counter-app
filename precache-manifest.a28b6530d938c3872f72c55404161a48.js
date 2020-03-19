@@ -1,7 +1,7 @@
 self.__precacheManifest = [
   {
-    "revision": "7a36331a0f31a60e4127",
-    "url": "/simple-counter-app/static/js/app.3e4129cb.chunk.js"
+    "revision": "136f5b1fb93db72f96a9",
+    "url": "/simple-counter-app/static/js/app.4ed87d8b.chunk.js"
   },
   {
     "revision": "bbd9e5d498ab384c3b0a",
@@ -56,12 +56,12 @@ self.__precacheManifest = [
     "url": "/simple-counter-app/./fonts/FontAwesome5_Brands.ttf"
   },
   {
-    "revision": "d0c694b562b2208635f250762cd7fc79",
-    "url": "/simple-counter-app/serve.json"
-  },
-  {
     "revision": "7a7bc7ead25db795e58b336f04d2624c",
     "url": "/simple-counter-app/favicon.ico"
+  },
+  {
+    "revision": "d0c694b562b2208635f250762cd7fc79",
+    "url": "/simple-counter-app/serve.json"
   },
   {
     "revision": "48c7ed4e7da9792af288a60d7242d615",
@@ -132,7 +132,7 @@ self.__precacheManifest = [
     "url": "/simple-counter-app/apple/splash/icon_828x1792.png"
   },
   {
-    "revision": "d5c398e9c38cb08a11d4094784b34f9b",
+    "revision": "98528495f4a395489f00dcedd72e49bf",
     "url": "/simple-counter-app/index.html"
   },
   {
