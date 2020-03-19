@@ -1,15 +1,15 @@
 self.__precacheManifest = [
   {
-    "revision": "09015b3761e5e0e0e97e",
-    "url": "/simple-counter-app/static/js/app.e35d6d06.chunk.js"
+    "revision": "5a0bd888e707fbda92d7",
+    "url": "/simple-counter-app/static/js/app.87cd85e3.chunk.js"
   },
   {
     "revision": "bbd9e5d498ab384c3b0a",
     "url": "/simple-counter-app/static/js/runtime~app.d030e14e.js"
   },
   {
-    "revision": "f6b996b9285769d78357",
-    "url": "/simple-counter-app/static/js/2.a7be6459.chunk.js"
+    "revision": "a828fbfca5926906a035",
+    "url": "/simple-counter-app/static/js/2.26612a33.chunk.js"
   },
   {
     "revision": "3a2ba31570920eeb9b1d217cabe58315",
@@ -56,12 +56,12 @@ self.__precacheManifest = [
     "url": "/simple-counter-app/./fonts/FontAwesome5_Brands.ttf"
   },
   {
-    "revision": "d0c694b562b2208635f250762cd7fc79",
-    "url": "/simple-counter-app/serve.json"
-  },
-  {
     "revision": "7a7bc7ead25db795e58b336f04d2624c",
     "url": "/simple-counter-app/favicon.ico"
+  },
+  {
+    "revision": "d0c694b562b2208635f250762cd7fc79",
+    "url": "/simple-counter-app/serve.json"
   },
   {
     "revision": "48c7ed4e7da9792af288a60d7242d615",
@@ -132,7 +132,7 @@ self.__precacheManifest = [
     "url": "/simple-counter-app/apple/splash/icon_828x1792.png"
   },
   {
-    "revision": "5bd44f9fe7cfc55785850e1121564724",
+    "revision": "d89c23892bcb76e150ecb7026f42b225",
     "url": "/simple-counter-app/index.html"
   },
   {

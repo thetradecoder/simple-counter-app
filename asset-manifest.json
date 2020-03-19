@@ -1,11 +1,11 @@
 {
   "files": {
-    "app.js": "/simple-counter-app/static/js/app.e35d6d06.chunk.js",
-    "app.js.map": "/simple-counter-app/static/js/app.e35d6d06.chunk.js.map",
+    "app.js": "/simple-counter-app/static/js/app.87cd85e3.chunk.js",
+    "app.js.map": "/simple-counter-app/static/js/app.87cd85e3.chunk.js.map",
     "runtime~app.js": "/simple-counter-app/static/js/runtime~app.d030e14e.js",
     "runtime~app.js.map": "/simple-counter-app/static/js/runtime~app.d030e14e.js.map",
-    "static/js/2.a7be6459.chunk.js": "/simple-counter-app/static/js/2.a7be6459.chunk.js",
-    "static/js/2.a7be6459.chunk.js.map": "/simple-counter-app/static/js/2.a7be6459.chunk.js.map",
+    "static/js/2.26612a33.chunk.js": "/simple-counter-app/static/js/2.26612a33.chunk.js",
+    "static/js/2.26612a33.chunk.js.map": "/simple-counter-app/static/js/2.26612a33.chunk.js.map",
     "fonts/AntDesign.ttf": "/simple-counter-app/./fonts/AntDesign.ttf",
     "fonts/Entypo.ttf": "/simple-counter-app/./fonts/Entypo.ttf",
     "fonts/Feather.ttf": "/simple-counter-app/./fonts/Feather.ttf",
@@ -35,12 +35,12 @@
     "favicon.ico": "/simple-counter-app/favicon.ico",
     "index.html": "/simple-counter-app/index.html",
     "manifest.json": "/simple-counter-app/manifest.json",
-    "precache-manifest.8687e9fe4c5c14e7224e0e1164b7b720.js": "/simple-counter-app/precache-manifest.8687e9fe4c5c14e7224e0e1164b7b720.js",
+    "precache-manifest.f220609582fae42e6fa4d895b6c309ba.js": "/simple-counter-app/precache-manifest.f220609582fae42e6fa4d895b6c309ba.js",
     "serve.json": "/simple-counter-app/serve.json"
   },
   "entrypoints": [
     "static/js/runtime~app.d030e14e.js",
-    "static/js/2.a7be6459.chunk.js",
-    "static/js/app.e35d6d06.chunk.js"
+    "static/js/2.26612a33.chunk.js",
+    "static/js/app.87cd85e3.chunk.js"
   ]
 }
