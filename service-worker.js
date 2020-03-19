@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/simple-counter-app/precache-manifest.a28b6530d938c3872f72c55404161a48.js"
+  "/simple-counter-app/precache-manifest.8f3c3af5a1c8aa85f241f39a229e5bc6.js"
 );
 
 workbox.skipWaiting();
