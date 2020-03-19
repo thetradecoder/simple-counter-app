@@ -1,7 +1,7 @@
 self.__precacheManifest = [
   {
-    "revision": "9f8f57953cf5588f1840",
-    "url": "/simple-counter-app/static/js/app.7ec9f3d0.chunk.js"
+    "revision": "09015b3761e5e0e0e97e",
+    "url": "/simple-counter-app/static/js/app.e35d6d06.chunk.js"
   },
   {
     "revision": "bbd9e5d498ab384c3b0a",
@@ -132,7 +132,7 @@ self.__precacheManifest = [
     "url": "/simple-counter-app/apple/splash/icon_828x1792.png"
   },
   {
-    "revision": "0880909f0abeca66f3156cd5c557d3d2",
+    "revision": "5bd44f9fe7cfc55785850e1121564724",
     "url": "/simple-counter-app/index.html"
   },
   {
